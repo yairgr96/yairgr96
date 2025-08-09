@@ -3,12 +3,12 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yairgr96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </a>
 
-Soy **Ingeniero en Sistemas Computacionales**con un enfoque en la administración de infraestructura en Azure y redes. 
+Soy **Ingeniero en Sistemas Computacionales**con un enfoque en la administración de infraestructura en redes Azure. 
 Me apasiona resolver problemas y tengo experiencia tanto en el desarrollo de software como en nube publica.
 
-🔭 Actualmente trabajo como **Analista** en la Comisión Nacional Bancaria y de Valores, gestionando y asegurando redes en Azure.
+🔭 Actualmente trabajo como **Analista** en la Comisión Nacional Bancaria y de Valores, en el area de redes.
 
-🌱 Estoy constantemente aprendiendo y fortaleciendo mis habilidades. Actualmente participo en el programa **Oracle Next Education (ONE)** y curso las **'Bases Tecnológicas para el Servicio Público'** de INFOTEC, enfocándome en HTML, CSS, JavaScript, Java, PHP y nube pública.
+🌱 Estoy constantemente aprendiendo y fortaleciendo mis habilidades. Actualmente participo en el programa **Oracle Next Education (ONE)** y curso las **'Bases Tecnológicas para el Servicio Público'** de INFOTEC, donde estoy fortaleciendo mis habilidades en HTML, CSS, JavaScript, Java, PHP y nube pública.
 
 📫 Puedes contactarme a través de mi correo: **yairgr96@gmail.com**.
 
@@ -24,10 +24,10 @@ Me apasiona resolver problemas y tengo experiencia tanto en el desarrollo de sof
         <br><strong>Azure</strong>
       </a>
     </td>
-    <td align="center" width="120">
-      <a href="https://docs.microsoft.com/es-es/powershell/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40" alt="PowerShell" />
-        <br><strong>PowerShell</strong>
+     <td align="center" width="120">
+      <a href="https://docs.github.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub" />
+        <br><strong>GitHub</strong>
       </a>
     </td>
     <td align="center" width="120">
