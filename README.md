@@ -1,9 +1,9 @@
-### ¡Hola! Soy Yair 👋
+¡Hola! Soy Yair 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yairgr96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </a>
 
-[cite_start]Soy un **Ingeniero en Sistemas Computacionales** [cite: 2] [cite_start]con un enfoque en la administración de infraestructura en Azure y redes[cite: 33]. [cite_start]Me apasiona resolver problemas y tengo experiencia tanto en el desarrollo de software como en la automatización de tareas en la nube[cite: 14, 33, 34].
+Soy un **Ingeniero en Sistemas Computacionales** [cite: 2] [cite_start]con un enfoque en la administración de infraestructura en Azure y redes[cite: 33]. [cite_start]Me apasiona resolver problemas y tengo experiencia tanto en el desarrollo de software como en la automatización de tareas en la nube[cite: 14, 33, 34].
 
 - [cite_start]🔭 Actualmente trabajo como **Analista Administrativo** en la Comisión Nacional Bancaria y de Valores, gestionando y asegurando redes en Azure[cite: 8, 10, 12].
 - [cite_start]🌱 Estoy constantemente aprendiendo y aplicando mis conocimientos en proyectos personales, como aplicaciones SPA con React [cite: 24] [cite_start]y automatización con PowerShell[cite: 14].
