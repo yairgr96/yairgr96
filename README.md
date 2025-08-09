@@ -3,11 +3,11 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yairgr96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </a>
 
-Soy un **Ingeniero en Sistemas Computacionales** [cite: 2] [cite_start]con un enfoque en la administración de infraestructura en Azure y redes[cite: 33]. [cite_start]Me apasiona resolver problemas y tengo experiencia tanto en el desarrollo de software como en la automatización de tareas en la nube[cite: 14, 33, 34].
+Soy un **Ingeniero en Sistemas Computacionales** con un enfoque en la administración de infraestructura en Azure y redes. Me apasiona resolver problemas y tengo experiencia tanto en el desarrollo de software como en la nube de Azure.
 
-- [cite_start]🔭 Actualmente trabajo como **Analista Administrativo** en la Comisión Nacional Bancaria y de Valores, gestionando y asegurando redes en Azure[cite: 8, 10, 12].
-- [cite_start]🌱 Estoy constantemente aprendiendo y aplicando mis conocimientos en proyectos personales, como aplicaciones SPA con React [cite: 24] [cite_start]y automatización con PowerShell[cite: 14].
-- [cite_start]📫 Puedes contactarme a través de mi correo: **yairgr96@gmail.com**[cite: 6].
+🔭 Actualmente trabajo como **Analista Administrativo** en la Comisión Nacional Bancaria y de Valores, gestionando y asegurando redes en Azure
+🌱 Estoy constantemente aprendiendo y aplicando mis conocimientos en proyectos personales.
+📫 Puedes contactarme a través de mi correo: **yairgr96@gmail.com**.
 
 ---
 
