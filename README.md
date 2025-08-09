@@ -3,7 +3,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yairgr96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </a>
 
-Soy **Ingeniero en Sistemas Computacionales**con un enfoque en la administración de infraestructura en redes Azure. 
+Soy **Ingeniero en Sistemas Computacionales** con experiencia en la administración de infraestructura en redes Azure. 
 Me apasiona resolver problemas y tengo experiencia tanto en el desarrollo de software como en nube publica.
 
 🔭 Actualmente trabajo como **Analista** en la Comisión Nacional Bancaria y de Valores, en el area de redes.
